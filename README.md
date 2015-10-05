@@ -1,7 +1,6 @@
-# burthen-hm-repo
-my home repository
+`My home repository.`
 
 ```When you leave your workplace:```
-- ```git commit```
-- ```git push```
-- ```well done! :)```
+- `git commit`
+- `git push`
+- `well done! :)`
